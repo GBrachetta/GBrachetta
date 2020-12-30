@@ -11,6 +11,8 @@
 ![Sass](https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=React&logoColor=CCC)
+![NodeJS](https://img.shields.io/badge/Nodejs%20-%228B22.svg?&style=for-the-badge&logo=Node.js&logoColor=000)
+![Express](https://img.shields.io/badge/Express%20-%231E2E3B.svg?&style=for-the-badge&logo=express&logoColor=000)
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
 
 ## Libraries and Frameworks
