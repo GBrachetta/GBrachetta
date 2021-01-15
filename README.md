@@ -13,9 +13,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/brachetta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brachetta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gbrachetta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gbrachetta" height="30" width="40" /></a>
-<a href="https://instagram.com/brachetta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="brachetta" height="30" width="40" /></a>
+<a href="https://twitter.com/brachetta" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="brachetta" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/gbrachetta" target="_blank"><img align="center" src="https://soc.kuleuven.be/immrc/images/linkedin-logo-initials.png/image" alt="gbrachetta" height="40" width="40" /></a>
+<a href="https://instagram.com/brachetta" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="brachetta" height="40" width="40" /></a>
 </p>
 <br />
 
