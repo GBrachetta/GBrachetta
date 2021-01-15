@@ -61,3 +61,12 @@
  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+<hr />
+<br />
+<p align="center">
+<a href="https://stackoverflow.com/users/12888470/guillermo-brachetta">
+<img src="https://stackoverflow.com/users/flair/12888470.png?theme=dark" width="208" height="58">
+</a>
+</p>
+<hr />
