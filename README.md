@@ -21,7 +21,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbrachetta&show_icons=true&theme=dark&locale=en&hide_border=true" alt="gbrachetta" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbrachetta&theme=light&hide_border=true" alt="gbrachetta" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbrachetta&theme=dark&hide_border=true" alt="gbrachetta" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrachetta&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="gbrachetta" /></p>
 
