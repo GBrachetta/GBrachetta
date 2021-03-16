@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Guillermo</h1>
 
-<h3 align="center">Passionate musician and developer</h3>
+<h3 align="center">Passionate Developer. Musician.</h3>
 
 <hr />
 <br />
