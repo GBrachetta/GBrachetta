@@ -99,3 +99,9 @@
 <p align="center">
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=bear" alt="Dev Jokes" />
 </p>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
+
+<p align="center">
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gbrachetta/gbrachetta/blob/master/devcard.svg" width="300" alt="Guillermo's Dev Card"/></a>
+</p>
